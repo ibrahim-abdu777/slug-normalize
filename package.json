@@ -1,0 +1,8 @@
+{
+  "name": "slug-normalize",
+  "version": "1.0.3",
+  "description": "Dependency-free slug normalization with packed baseline fixtures",
+  "main": "src/slug.js",
+  "scripts": { "test": "node --test test/" },
+  "license": "MIT"
+}
